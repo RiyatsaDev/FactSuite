@@ -3,7 +3,7 @@ package com.factsuite.spring.dto.user;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public  LoginDTO {
+public class LoginDTO {
 
 	private static final Logger logger = LoggerFactory.getLogger(LoginDTO.class);
 
